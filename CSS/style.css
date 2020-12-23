@@ -1,0 +1,65 @@
+body {
+    background: #00185DA8;
+    font: 1em Trebuchet MS;
+    word-spacing: 2px;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: #999;
+    border-bottom: 1px dotted #232323;
+    padding: 2px 4px 2px 4px;
+}
+
+a:hover {
+    border-bottom: 1px dotted #99CC33;
+    background: #101010;
+}
+
+h2 {
+    font: 24px Arial, sans-serif;
+    color: #99CC33;
+    letter-spacing: -1px;
+    font-weight: normal;
+    margin: 15px 0 15px 0;
+}
+
+h2.first {
+    margin: 0 0 15px 0;
+}
+
+h2 a {
+    color: #99CC33;
+    border: none;
+    padding: 0;
+}
+
+h2 a:hover {
+    border: none;
+    background: none;
+}
+
+h3 {
+    font-size: 1.2em;
+    color: #ccc;
+    font-weight: normal;
+    margin: 15px 0 15px 0;
+}
+
+table {
+    margin: 0 auto 0 auto;
+}
+
+td {
+    text-align: left;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+.round-img {
+    border-radius: 100%;
+}
